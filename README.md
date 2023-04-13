@@ -77,3 +77,4 @@ Feature-ветки создаются из develop, а потом мержатс
 - слить эти изменения с основной кодовой базой.
 - $ git checkout main
 - $ git merge new_branch
+ИЗМЕНЕНИЕ
